@@ -1,0 +1,5 @@
+./apis/__pycache__
+./django_project/__pycache__
+./stores/migrations
+./stores/__pycache__
+db.sqlite3
